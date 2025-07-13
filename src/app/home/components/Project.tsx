@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Project = () => {
   return (
-    <div className='w-80% h-auto mt-[-90px]' id='PROJECTS'>
+    <div className='w-80% h-auto mt-[90px]' id='PROJECTS'>
         <div className='text-center'>
             <h2 className='text-4xl font-semibold'> MY PROJECTS</h2>
             <h5 className='text-2xl font-normal'>Below are some of the projects I have worked on. Crafted with purpose, passion and attention to details</h5>
@@ -12,7 +12,7 @@ const Project = () => {
 
         <div className="  w-1/2 object-cover relative group overflow-hidden rounded-lg shadow-lg">
   <Image
-    src="/agri.PNG"
+    src="/agri.png"
     alt="Example"
     width={1000}
     height={900}
@@ -26,7 +26,7 @@ const Project = () => {
 
 <div className="  w-1/2 object-cover relative group overflow-hidden rounded-lg shadow-lg">
   <Image
-    src="/visacard.PNG"
+    src="/visacard.png"
     alt="Example"
     width={1000}
     height={900}
@@ -44,7 +44,7 @@ const Project = () => {
 
 <div className="  w-1/2 object-cover relative group overflow-hidden rounded-lg shadow-lg">
   <Image
-    src="/FLEX.PNG"
+    src="/FLEX.png"
     alt="Example"
     width={1000}
     height={900}
@@ -58,7 +58,7 @@ const Project = () => {
 
 <div className="  w-1/2 object-cover relative group overflow-hidden rounded-lg shadow-lg">
   <Image
-    src="/flexa.PNG"
+    src="/flexa.png"
     alt="Example"
     width={1000}
     height={900}
@@ -77,7 +77,7 @@ const Project = () => {
 
         <div className="  w-1/2 object-cover relative group overflow-hidden rounded-lg shadow-lg">
   <Image
-    src="/STYLEFLYER.JPG"
+    src="/STYLEFLYER.jpg"
     alt="Example"
     width={200}
     height={200}
@@ -91,7 +91,7 @@ const Project = () => {
 
 <div className="  w-1/2 object-cover relative group overflow-hidden rounded-lg shadow-lg">
   <Image
-    src="/MarriagCard.JPG"
+    src="/MarriagCard.jpg"
     alt="Example"
     width={200}
     height={200}
