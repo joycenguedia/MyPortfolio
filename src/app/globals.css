@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(04, 09, 10);
+  color: #DFECFF;
+  font-family: 'Istok Web' sans-serif;
+}
+
+.leftblue {
+  background-image: url('/header.png');
+  background-repeat: no-repeat;
+  width: 350px;
+  height: 350px;
+  /* margin-bottom: 200px; */
+  backface-visibility: visible;
+  background-size: contain;
+}
+
+.blueright{
+  background-image: url('/laptop.png');
+  background-repeat: no-repeat;
+  width: 550px;
+  height: 550px;
+  backface-visibility: visible;
+  background-size: contain;
+}
