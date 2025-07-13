@@ -17,7 +17,7 @@ const About = () => {
           {/* Laptop Image (Left Side) */}
           <div className='flex-1 flex justify-center md:justify-end'>
             <Image 
-              src='/laptop.png' 
+              src='/Laptop.png' 
               alt='Laptop'         
               width={1000}
               height={900}
