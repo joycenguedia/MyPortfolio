@@ -30,7 +30,7 @@ const About = () => {
           <div className='flex-1 md:flex-[2] space-y-6 text-center md:text-left'>
             <h2 className='text-3xl md:text-4xl font-semibold'>ABOUT ME</h2>
             <p className='text-lg md:text-xl font-medium'>
-              I am an innovative and motivated graphic, UI/UX designer and passionate front-end web and mobile app developer with a solid experience of one and a half year. I am a quick learner and always looking to expand my knowledge and skill set.
+              I am a bilingual Graphic and UI/UX Designer with a passion for creating clean, user-friendly designs that speak to both English and French audiences. I specialize in crafting visual identities, intuitive web interfaces, and engaging mobile app designs. In addition to design, I also develop responsive websites and front-end mobile apps, turning creative ideas into fully functional digital experiences. Whether it is a logo, a landing page, or a complete app interface, I bring both creativity and technical skill to every project.
             </p>
             <div className='flex justify-center md:justify-start'>
               <button 

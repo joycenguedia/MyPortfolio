@@ -27,7 +27,7 @@ const Landing = () => {
               Hello I am NGUEDIA JOYCE,
             </h2>
             <h3 className='text-2xl sm:text-3xl md:text-4xl font-semibold leading-snug'>
-              a creative and detailed-oriented Graphic, UI/UX designer, Front-end web and mobile app developer
+              a bilingual, creative and detailed-oriented Graphic, UI/UX designer, web and front end mobile app developer
             </h3>
           </div>
         </div>
